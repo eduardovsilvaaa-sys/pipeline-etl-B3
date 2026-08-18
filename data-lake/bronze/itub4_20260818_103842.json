@@ -1,0 +1,29 @@
+{
+    "results": [
+        {
+            "symbol": "ITUB4",
+            "shortName": "ITUB4",
+            "longName": "Itau Unibanco Holding SA Pfd",
+            "currency": "BRL",
+            "regularMarketPrice": 38.27,
+            "regularMarketDayHigh": 38.53,
+            "regularMarketDayLow": 38.26,
+            "regularMarketDayRange": "38.26 - 38.53",
+            "regularMarketChange": -0.11,
+            "regularMarketChangePercent": -0.29,
+            "regularMarketTime": "2026-08-18T13:37:30.000Z",
+            "marketCap": 437841760466,
+            "regularMarketVolume": 396800,
+            "regularMarketPreviousClose": 38.27,
+            "regularMarketOpen": 38.48,
+            "fiftyTwoWeekRange": "34.97570463 - 49.67",
+            "fiftyTwoWeekLow": 34.97570463,
+            "fiftyTwoWeekHigh": 49.67,
+            "priceEarnings": 9.451483045615076,
+            "earningsPerShare": 4.2425595,
+            "logourl": "https://icons.brapi.dev/icons/ITUB4.svg"
+        }
+    ],
+    "requestedAt": "2026-08-18T13:38:41.948Z",
+    "took": 0
+}

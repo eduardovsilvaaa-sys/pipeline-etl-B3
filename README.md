@@ -1,6 +1,11 @@
 # Pipeline B3 — ETL de Ações e Dashboard
 
-![alt text](image.png)
+![Pipeline](docs/image.png)
+
+## 📊 Dashboard de Visualização
+
+![Dashboard](docs/image_dash.png)
+
 
 Este projeto implementa um pipeline de dados para monitoramento de ações da B3 utilizando um DataLake:
 
