@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  meu_postgres:
+    image: postgres:15-alpine
+    container_name: postgres_eng_dados
+    restart: always
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: senha123
+      POSTGRES_DB: meudb
+    ports:
+      - "5432:5432"
